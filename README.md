@@ -1,3 +1,1 @@
-# resume
-
-PRs & issues welcomed!
+[resume](./resume-fushimi-ryohei.pdf)
